@@ -1,0 +1,13 @@
+server:
+  servlet:
+    context-path: /api/auto-center/
+
+spring:
+  h2:
+    console:
+      enabled: true
+      path: /h2
+
+springdoc:
+  swagger-ui:
+    path: /public/swagger

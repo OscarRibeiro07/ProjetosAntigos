@@ -1,0 +1,18 @@
+Crie um novo banco de dados chamado LOUJA. A LOUJA é uma
+DISTRIBUIDORA DE ROUPAS que tem representantes em todo o país.
+E os grandes chefes precisam Saber os locais ativos e inativos! 
+
+CRIE uma tabela chamada FILIAIS com os campos:
+IDENTIFICADOR,ESTADO, ENDERECO, CEP,REPRESENTANTE,
+QUANTIDADE DE FUNCIONARIOS e ATIVO = Y ou N(PODENDO 
+ISERIR APENAS UMA LETRA E O PADRÃO É Y).
+Insira no minimo dez(10) 
+
+Depois faça uma alteração na tabela adicionando uma coluna
+que, indentifique os gastos com funcionarios mensais,
+valor medio de gastos de estabelecimentos, e antes do 
+representante coloque o gerente do estabelecimento!
+(OS VALORES NAO PRECISAM SER EXATOS, PROXIMO PROJ MANTEREMOS
+RELACOES ENTRE TABELAS, AVANÇANDO ASSIM NA LOGICA E 
+EFICACIA EM NOSSOS PROJETOS)
+Até o próximo projeto!! estude, o próximo não será tão fácil
